@@ -1,0 +1,7 @@
+discord
+motor
+dnspython
+emojis
+youtube_dl
+PyNaCl
+#DiscordUtils
